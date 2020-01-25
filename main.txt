@@ -1,0 +1,1 @@
+We will be launching the API on Github soon, please wait or check out http://wiki3d.repl.co/
